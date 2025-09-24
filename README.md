@@ -62,11 +62,8 @@ MANUAL CALCULATION
 
 ![photo_2025-09-24_17-10-14](https://github.com/user-attachments/assets/d6ebe675-6684-4218-8a01-2000a3caf856)
 ---
-
 RESULT
-
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
-
 ---
 
 
